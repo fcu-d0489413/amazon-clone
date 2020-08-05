@@ -2,7 +2,7 @@
 
 1. npx create-react-app amazon-clone
 2. cd amazon-clone
-3. git clone https://github.com/fcu-d0489413/amazon-clone.git
+3. git clone https://github.com/james-liao-chen-hung/amazon-clone.git
 4. Copy "./amazon-clone/amazon-clone" to "./amazon-clone"
 5. npm i @material-ui/core
 6. npm i @material-ui/icons
