@@ -1,0 +1,10 @@
+需要先用終端機(Terminal)
+1. npx create-react-app amazon-clone
+2. cd amazon-clone
+3. git clone https://github.com/fcu-d0489413/amazon-clone.git
+4. 將 ./amazon-clone/amazon-clone 裡面複製後,到 ./amazon-clone 貼上
+5. npm i @material-ui/core
+6. npm i @material-ui/icons
+7. npm i firebase
+8. npm i react-currency-format
+9. npm i react-router-dom
