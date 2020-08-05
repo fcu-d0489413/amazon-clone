@@ -1,4 +1,4 @@
-##Use terminal to perform the following actions
+## Use terminal to perform the following actions
 
 1. npx create-react-app amazon-clone
 2. cd amazon-clone
