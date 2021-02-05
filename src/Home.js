@@ -6,32 +6,37 @@ function Home() {
 
     return (
         <div className="home">
-            <div className="home__allImg">
-                <img
-                    className="home__image"
-                    src="https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2020/May/Hero/Fuji_TallHero_Beauty_zh_TW_1x._CB431291176_.jpg"
-                    alt=""
-                />
-                <img
-                    className="home__image1"
-                    src="https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Projects/JumpIn/Taiwan/Fuji_LP_Hero_JumpIn_TW_FINAL_zh_TW.jpg"
-                    alt=""
-                />
-                <img
-                    className="home__image2"
-                    src="https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2020/May/Hero/Fuji_Dash_PCs_zh_TW_1x._CB432520777_.jpg"
-                    alt=""
-                />
-                <img
-                    className="home__image3"
-                    src="https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2020/May/Hero/Fuji_TallHero_Toys_zh_TW_1x._CB431858125_.jpg"
-                    alt=""
-                />
-                <img
-                    className="home__image4"
-                    src="https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2020/May/Hero/Fuji_TallHero_Home_zh_TW_1x._CB431478365_.jpg"
-                    alt=""
-                />
+            <div className="slider_container">
+                <div>
+                    <img
+                        src="https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2020/May/Hero/Fuji_TallHero_Beauty_zh_TW_1x._CB431291176_.jpg"
+                        alt=""
+                    />
+                </div>
+                <div>
+                    <img
+                        src="https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2020/May/Hero/Fuji_Dash_PCs_zh_TW_1x._CB432520777_.jpg"
+                        alt=""
+                    />
+                </div>
+                <div>
+                    <img
+                        src="https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2020/May/Hero/Fuji_TallHero_Home_zh_TW_1x._CB431478365_.jpg"
+                        alt=""
+                    />
+                </div>
+                <div>
+                    <img
+                        src="https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2020/May/Hero/Fuji_TallHero_Toys_zh_TW_1x._CB431858125_.jpg"
+                        alt=""
+                    />
+                </div>
+                <div>
+                    <img
+                        src="https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Projects/JumpIn/Taiwan/Fuji_LP_Hero_JumpIn_TW_FINAL_zh_TW.jpg"
+                        alt=""
+                    />
+                </div>
             </div>
 
             <div className="home__rowf">
